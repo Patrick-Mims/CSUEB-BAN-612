@@ -1,0 +1,9 @@
+Age,Gender,Education,Income_Bracket,City,Zip_Code
+21,M,High School,"less than 35,000",Seattle,Seattle
+22,F,Associates's,"35,000-50,000",Los Angeles,90210
+25,F,Bachelor's,"50,000-75,000",Los Angeles,90210
+28,F,Associates's,"35,000-50,000",New York,10001
+32,M,Master's,"75,000-100,000",San Francisco,94016
+35,M,Bachelor's,"75,000-100,000",San Francisco,94016
+40,F,PhD,"over 100,000",Boston,Boston
+62,M,Master's,"over 100,000",San Francisco,94016
